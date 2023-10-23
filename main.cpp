@@ -1,5 +1,5 @@
 //
-// Author: Rimsha Rizvi, Spring 2021, CS141
+// Author: Rimsha Rizvi
 //
 
 #include <iostream>
